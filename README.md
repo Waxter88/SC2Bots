@@ -28,4 +28,4 @@ We welcome contributions to this project. If you have improvements or bug fixes,
 
 ## Acknowledgments
 Thanks to the StarCraft II AI community for their support and contributions to AI development.
-- [BurnySC2](https://github.com/BurnySc2) - The zealot_charge_bot and workerRushBot borrow some of the code from the examples here
+- [BurnySC2](https://github.com/BurnySc2) - This is the library we use to create these bots. The zealot_charge_bot and workerRushBot borrow some of the code from the examples here.
